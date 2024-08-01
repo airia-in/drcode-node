@@ -1,6 +1,6 @@
 {
   "name": "@drcode.ai/drcode-node",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A wrapper for Sentry that simplifies DSN configuration and error handling.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -15,7 +15,7 @@
     "wrapper",
     "logging"
   ],
-  "author": "Mohd Nadeem <codewithnadeem@gmail.com>",
+  "author": "Ashutosh Renu <ashutosh@airia.in>",
   "license": "MIT",
   "repository": {
     "type": "git",

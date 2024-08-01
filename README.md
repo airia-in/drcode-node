@@ -1,5 +1,5 @@
 <h3 id="drcode-wrapper">drcode-node</h3>
-<p><strong>drcode-node</strong> is an npm package that provides a wrapper around Sentry, making it easy to configure and use Sentry&#39;s features, including profiling and error handling, with TypeScript support.</p>
+<p><strong>drcode-node</strong> is a Node.js package that facilitates error tracking and performance monitoring for your applications. Utilizing the sentry package internally, drcode-node collects and processes application logs to provide detailed insights into errors and performance issues. With this package, you can easily integrate error tracking into your Node.js applications, helping you to maintain optimal performance and quickly address issues.</p>
 <h4 id="installation">Installation</h4>
 <p>To install the package, run:</p>
 <p>bash</p>
@@ -90,4 +90,4 @@ next: any
 <h4 id="license">License</h4>
 <p>This project is licensed under the MIT License.</p>
 <h4 id="version">Version</h4>
-<p>1.0.1</p>
+<p>1.0.3</p>
